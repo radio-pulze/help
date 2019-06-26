@@ -30,12 +30,12 @@ Log in to the Radio Pulze account on the Mac and start up GarageBand.
 
 Add tracks.
 * Go to `Track` -> `New Track` in the menu bar at the top. Make sure the input source is a microphone and is the same number as the mic you are using. (The mics are labelled 1 to 4.)
-* * The source options might only allow you to select a combination of mics e.g. `Input 1 & 2`. Just use that one.
+  * The source options might only allow you to select a combination of mics e.g. `Input 1 & 2`. Just use that one.
 * Make sure all the mics you are using have been added as input sources. You can add as many tracks as you need.
 
 Make sure all the tracks are armed for recording.
 * Click the `Enable recording` button for all the tracks you want to record. This button has a dot in the middle. If the dot is red and lighted up, it means the track is armed for recording.
- * If you don't see this button, right-click the track and select `Track Header Components` -> `Show Record Enable`.
+  * If you don't see this button, right-click the track and select `Track Header Components` -> `Show Record Enable`.
 
 Do a test recording/sound check.
 * Click the large record button on GarageBand. You should see all your tracks that have been armed for recording should start recording (a red bar will appear on each of them).
@@ -134,9 +134,9 @@ Add tracks.
 
 Check if you can hear each other through the two rooms.
 * Once the track with Input 2 has `I` enabled, the talent should enter the recording room and put on the headphones. Make sure the headphones amp is on (the power button is the large square button on the right). The people outside should speak into the mic outside and test if the talent can hear them. Once this has been established, you can disable `I` to prevent the talent from hearing the outside gossip.
- * You can leave the outside mic turned on throughout, but the background noise from outside (e.g. bumping into equipment) might confuse people while they are monitoring the recording.
+  * You can leave the outside mic turned on throughout, but the background noise from outside (e.g. bumping into equipment) might confuse people while they are monitoring the recording.
 * The talent should speak into the mic inside and the people outside should be able to hear them through the headphones connected to the mixer.
- * NOTE: The headphones port on the mixer isn't the best, so you might have to fiddle with the 3.5mm jack and try to nudge it around to see what orientation works.
+  * NOTE: The headphones port on the mixer isn't the best, so you might have to fiddle with the 3.5mm jack and try to nudge it around to see what orientation works.
 
 Do a test recording/soundcheck.
 * Press the record button (either on the mixer or on Logic) and hold it for a bit until the playhead starts moving on the Mac. Note that the playhead (the moving line thing) will start from beyond the starting point and keep moving. Wait until the playhead has moved past the starting point and wait a little while more before asking the talent to start speaking. Also wait a few seconds after the talent has finished their lines before stopping.
