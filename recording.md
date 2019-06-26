@@ -25,11 +25,11 @@ NOTE: This guide assumes there is at least one person present who is familiar wi
 If any of the equipment is still on, turn everything off and restart in this order: mixer, headphones amp (under the Mac) and the Mac.
 
 Log in to the Radio Pulze account on the Mac and start up GarageBand.
-* If you don't see GarageBand in the taskbar, do <kbd>⌘ Command</kbd>+<kbd>Space</kbd> to open up Spotlight search. Type in `GarageBand` and press <kbd>Enter</kbd>.
+* If you don't see GarageBand in the taskbar, do `⌘ Command`+`Space` to open up Spotlight search. Type in `GarageBand` and press `Return`.
 * If there is an existing project, just close it and create a new GarageBand project.
 
 Add tracks.
-* Go to `Track` > `New Track` in the menu bar at the top. Make sure the input source is a microphone and is the same number as the mic you are using. (The mics are labelled 1 to 4.)
+* Go to `Track` -> `New Track` in the menu bar at the top. Make sure the input source is a microphone and is the same number as the mic you are using. (The mics are labelled 1 to 4.)
 * * The source options might only allow you to select a combination of mics e.g. `Input 1 & 2`. Just use that one.
 * Make sure all the mics you are using have been added as input sources. You can add as many tracks as you need.
 
@@ -41,7 +41,7 @@ Do a test recording/sound check.
 * Click the large record button on GarageBand. You should see all your tracks that have been armed for recording should start recording (a red bar will appear on each of them).
 * Unmute your mics and adjust the volume. Speak into the mics and observe the wave on the recording tracks on GarageBand. If there is more than one recording talent at a mic, continue adjusting until everyone's mics is about the same volume level.
 * Click the stop button to stop the recording. Move the playhead (the line thing) to the start and play the recording to listen to it through the headphones. Make sure the volume/audio quality sounds good.
-* Delete the test recording and move the playhead back to the start. (You can drag the playhead or press <kbd>Return</kbd> to return the playhead to start quickly.)
+* Delete the test recording and move the playhead back to the start. (You can drag the playhead or press `Return` to return the playhead to start quickly.)
 
 Start recording.
 * After pressing the record button, leave a few seconds of silence before directing the talent to start speaking (about 3 seconds). Then leave a few seconds of silence after the talent finishes the line before stopping the recording. This buffer is very important for post processing.
@@ -51,7 +51,7 @@ Start recording.
 
 Save frequently!
 * Save as a .band file in a temporary location. If GarageBand ever crashes in the middle of recording, you can just reopen that file to restore all your saved work.
-* Try to save between every recording. Seriously, it's just a simple <kbd>⌘ Command</kbd>+<kbd>S</kbd>.
+* Try to save between every recording. Seriously, it's just a simple `⌘ Command`+`S`.
 * You can delete the .band file after everything else has been completed.
 
 Export the finished recording.
@@ -126,7 +126,7 @@ Right outside the recording room, there is a large mixer and a Mac computer. Bot
 Log in to the Mac (ask the technical advisor for login details, it's not the same as the broadcast computer).
 
 Open Logic Pro.
-* If you don't see Logic Pro in the taskbar, do <kbd>⌘ Command</kbd>+<kbd>Space</kbd> to open up Spotlight search. Type in `Logic Pro` and press <kbd>Enter</kbd>.
+* If you don't see Logic Pro in the taskbar, do `⌘ Command`+`Space` to open up Spotlight search. Type in `Logic Pro` and press `Enter`.
 
 Add tracks.
 * Unlike in the broadcast room, you need to add Input 1 and Input 2 on 2 separate tracks. Input 1 is the mic inside the recording room and Input 2 is the mic outside.
