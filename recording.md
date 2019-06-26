@@ -73,11 +73,11 @@ If there are any directors present to direct the talent, they should remain sile
 
 ### Troubleshooting
 
-**MAC: How do I connect to the internet?**
+> MAC: How do I connect to the internet?
 
 Go to the WiFi symbol on the top right of the screen and select "NUS_Guest". Follow the on-screen instructions to connect to NUS' network.
 
-**MIXER: Mixer doesn't pick up any sounds!**
+> MIXER: Mixer doesn't pick up any sounds!
 
 Check if the mics are unmuted (the mute button lights should be OFF) and the volume/gain is not at the bottom.
 
@@ -85,7 +85,7 @@ Check if the master mix volume is not at the bottom.
 
 If you're not sure, take a photo of the WHOLE mixer and send it to the technical advisor (and explain your problem too).
 
-**GARAGEBAND: The recording is not playing back in the headphones!**
+> GARAGEBAND: The recording is not playing back in the headphones!
 
 Check GarageBand's Settings and make sure the output source is not in-built speakers.
 
@@ -93,7 +93,7 @@ Make sure the headphones amp is on and that the output for each channel is not 0
 
 Check other headphones or plug in your own personal earphones into the headphones amp. Some of our headphones might be faulty. (Please also mark the faulty ones for us to investigate.)
 
-**GARAGEBAND: GarageBand's recording is just silence!**
+> GARAGEBAND: GarageBand's recording is just silence!
 
 Make sure you have set up everything correctly on the mixer. You should be able to see the volume response (the green-orange-red) from the mixer.
 
@@ -101,7 +101,7 @@ Check your track inputs on GarageBand and make sure the mic you want is one of t
 
 Check GarageBand's Settings and make sure your input source is **Alesis** device and not in-built microphone or some other thing.
 
-**GARAGEBAND: I accidentally deleted a good take and saved the file!**
+> GARAGEBAND: I accidentally deleted a good take and saved the file!
 
 If GarageBand is still open, you should be able to undo until the deleted recording reappears. (Of course, whatever new takes you've recorded after deleting will disappear.)
 
@@ -109,11 +109,11 @@ If this take is super important and you are unable to just do another take (for 
 
 If all else fails, you can contact the technical advisor to have a look.
 
-**GARAGEBAND: I can't find the record enable button / this other button!!**
+> GARAGEBAND: I can't find the record enable button / this other button!!
 
 Go to `Help` in the menu at the top and type in the thing you are looking for (e.g. "Show Record Enable"). GarageBand should automatically highlight the option you are looking for. Just follow the highlighted menu option and click it.
 
-**HELP! I've tried everything else and I still have a problem!!**
+> HELP! I've tried everything else and I still have a problem!!
 
 Please contact the technical advisor for assistance. Alternatively, you could try to Google it.
 
@@ -164,28 +164,28 @@ Although both sides should be able to hear each other, it is recommended to use 
 
 ### Troubleshooting
 
-**SETUP: I can't hear the talent!**
+> I can't hear the talent!
 
 Enable `I` for the track with mic 1.
 
-**SETUP: The talent cannot hear us!**
+> The talent cannot hear us!
 
 Enable `I` for the track with mic 2. Please also check that the headphones amp in the recording room is on and the headphones are plugged into it properly. Check if the volume on the amp is more than 0.
 
-**SETUP: I don't want the talent to hear us!**
+> I don't want the talent to hear us!
 
 Disable `I` on the track with mic 2.
 
-**SETUP: How do I record 2 talents in the recording room?**
+> How do I record 2 talents in the recording room?
 
 If their reads are in real time simultaneously (e.g. conversation, saying things in unison), both talent will have to be in the booth at the same time and use that mic.
 
 if their reads can be recorded separately, send one talent in at a time and record their lines separately. Then disable `R` on the track with the recordings, create another track for Input 1 with `R` enabled and record the second talent.
 
-**LOGIC: I left mic 2 on `I` throughout and bumped into the mic many times. Will this affect the recording?**
+> LOGIC: I left mic 2 on `I` throughout and bumped into the mic many times. Will this affect the recording?
 
 If `R` is not enabled, it will not be recorded so your recording is fine. However, the headphones will pick up anything with `I`. If you are checking your recording, I'd recommend disabling mic 2 to listen to the recording without outside noises.
 
-**HELP! I've tried everything else and I still have a problem!!**
+> HELP! I've tried everything else and I still have a problem!!
 
 Please contact the technical advisor for assistance. Alternatively, you could try to Google it.
